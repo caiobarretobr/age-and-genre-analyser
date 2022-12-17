@@ -1,4 +1,4 @@
-# age-and-genre-analyser
+# Age and genre analyser
 
 1. Type an age
 2. Click in one of the two genres
